@@ -29,7 +29,22 @@
           "line": 119
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ShaderEditor/.gitignore",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 1387,
+          "line": 79
+        },
+        "start": {
+          "column": 15,
+          "index": 1387,
+          "line": 79
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/ShaderEditor/app/src/main/java/com/snow/shadereditor/MainActivity.java"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/ShaderEditor/.gitignore"
 }
