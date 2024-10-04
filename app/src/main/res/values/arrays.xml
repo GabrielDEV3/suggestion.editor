@@ -1,0 +1,145 @@
+<resources>
+    <!-- Tipos de variáveis -->
+    <string-array name="glsl_vars">
+        <item>float</item>
+        <item>int</item>
+        <item>bool</item>
+        <item>double</item>
+        <item>vec2</item>
+        <item>vec3</item>
+        <item>vec4</item>
+        <item>ivec2</item>
+        <item>ivec3</item>
+        <item>ivec4</item>
+        <item>bvec2</item>
+        <item>bvec3</item>
+        <item>bvec4</item>
+        <item>dvec2</item>
+        <item>dvec3</item>
+        <item>dvec4</item>
+        <item>mat2</item>
+        <item>mat3</item>
+        <item>mat4</item>
+        <item>mat2x2</item>
+        <item>mat2x3</item>
+        <item>mat2x4</item>
+        <item>mat3x2</item>
+        <item>mat3x3</item>
+        <item>mat3x4</item>
+        <item>mat4x2</item>
+        <item>mat4x3</item>
+        <item>mat4x4</item>
+        <item>sampler1D</item>
+        <item>sampler2D</item>
+        <item>sampler3D</item>
+        <item>samplerCube</item>
+        <item>sampler2DArray</item>
+        <item>image2D</item>
+        <item>image3D</item>
+    </string-array>
+
+    <!-- Qualificadores de Precisão -->
+    <string-array name="glsl_precision">
+        <item>highp</item>
+        <item>mediump</item>
+        <item>lowp</item>
+        <item>precision</item>
+    </string-array>
+
+    <!-- Qualificadores de Armazenamento -->
+    <string-array name="glsl_storage_qualifiers">
+        <item>const</item>
+        <item>uniform</item>
+        <item>buffer</item>
+        <item>shared</item>
+    </string-array>
+
+    <!-- Qualificadores de Entrada e Saída -->
+    <string-array name="glsl_io_qualifiers">
+        <item>in</item>
+        <item>out</item>
+        <item>inout</item>
+        <item>varying</item>
+    </string-array>
+
+    <!-- Qualificadores de Interpolação -->
+    <string-array name="glsl_interpolation_qualifiers">
+        <item>flat</item>
+        <item>smooth</item>
+        <item>noperspective</item>
+        <item>centroid</item>
+    </string-array>
+
+    <!-- Qualificadores de Layout -->
+    <string-array name="glsl_layout_qualifiers">
+        <item>layout</item>
+        <item>location</item>
+        <item>binding</item>
+        <item>packed</item>
+        <item>std140</item>
+        <item>std430</item>
+    </string-array>
+
+    <!-- Estruturas de Controle -->
+    <string-array name="glsl_control_structures">
+        <item>if</item>
+        <item>else</item>
+        <item>for</item>
+        <item>while</item>
+        <item>do</item>
+        <item>switch</item>
+        <item>case</item>
+        <item>break</item>
+        <item>continue</item>
+        <item>return</item>
+        <item>discard</item>
+    </string-array>
+
+    <!-- Funções Matemáticas -->
+    <string-array name="glsl_math_functions">
+        <item>sin</item>
+        <item>cos</item>
+        <item>tan</item>
+        <item>asin</item>
+        <item>acos</item>
+        <item>atan</item>
+        <item>pow</item>
+        <item>exp</item>
+        <item>log</item>
+        <item>sqrt</item>
+        <item>abs</item>
+        <item>floor</item>
+        <item>ceil</item>
+        <item>fract</item>
+        <item>mod</item>
+        <item>min</item>
+        <item>max</item>
+        <item>clamp</item>
+        <item>mix</item>
+        <item>step</item>
+        <item>smoothstep</item>
+    </string-array>
+
+    <!-- Funções de Vetor e Geometria -->
+    <string-array name="glsl_vector_functions">
+        <item>length</item>
+        <item>distance</item>
+        <item>dot</item>
+        <item>cross</item>
+        <item>normalize</item>
+        <item>reflect</item>
+        <item>refract</item>
+    </string-array>
+
+    <!-- Funções de Textura -->
+    <string-array name="glsl_texture_functions">
+        <item>texture</item>
+        <item>textureSize</item>
+        <item>texelFetch</item>
+    </string-array>
+    
+   <string-array name="glsl_method">
+        <item>void</item>
+    </string-array>
+
+</resources>

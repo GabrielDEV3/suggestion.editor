@@ -1,0 +1,13 @@
+com.snow.suggestion.test
+drawable ic_outline
+drawable ic_outline_blue
+drawable ic_outline_green
+drawable ic_outline_orange
+drawable ic_outline_purple
+drawable ic_outline_red
+id completeName
+id name
+id suggestions
+id type
+layout suggestion
+layout suggestion_menu

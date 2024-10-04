@@ -1,0 +1,5 @@
+com.snow.suggestion.test.suggestive-editor-androidTest-0 /storage/emulated/0/AndroidIDEProjects/ShaderEditor/suggestive-editor/build/generated/res/resValues/androidTest/debug
+com.snow.suggestion.test.suggestive-editor-mergeDebugAndroidTestResources-1 /storage/emulated/0/AndroidIDEProjects/ShaderEditor/suggestive-editor/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.snow.suggestion.test.suggestive-editor-mergeDebugAndroidTestResources-2 /storage/emulated/0/AndroidIDEProjects/ShaderEditor/suggestive-editor/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.snow.suggestion.test.suggestive-editor-merged_res-3 /storage/emulated/0/AndroidIDEProjects/ShaderEditor/suggestive-editor/build/intermediates/merged_res/debugAndroidTest
+com.snow.suggestion.test.suggestive-editor-packaged_res-4 /storage/emulated/0/AndroidIDEProjects/ShaderEditor/suggestive-editor/build/intermediates/packaged_res/debug

@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ShaderEditor/app/src/main/java/com/snow/shadereditor/code/ShaderEditor.java",
+      "selection": {
+        "end": {
+          "column": 5,
+          "index": 350,
+          "line": 13
+        },
+        "start": {
+          "column": 5,
+          "index": 350,
+          "line": 13
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/ShaderEditor/app/src/main/java/com/snow/shadereditor/code/ShaderEditor.java"
+}

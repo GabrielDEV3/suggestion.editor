@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ShaderEditor/app/src/main/java/com/snow/shadereditor/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ShaderEditor/suggestive-editor/src/main/java/com/snow/suggestion/SuggestiveEditor.java",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 3926,
+          "line": 119
+        },
+        "start": {
+          "column": 11,
+          "index": 3926,
+          "line": 119
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/ShaderEditor/app/src/main/java/com/snow/shadereditor/MainActivity.java"
+}
